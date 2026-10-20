@@ -20,3 +20,5 @@
 .patient-photo-item button{width:100%;margin-top:4px}
 .patient-list-empty{padding:18px;text-align:center;color:#64748b}
 @media(max-width:520px){.patient-detail-grid{grid-template-columns:1fr}.tooth-chart{gap:3px}.tooth{min-height:38px;font-size:10px}nav button{font-size:14px;padding:7px 2px}nav small{font-size:7px}}
+
+.hidden{display:none !important}
